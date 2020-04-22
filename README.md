@@ -1,4 +1,4 @@
-proprietary vendor blobs for Motorola Moto E4 (woods)
+proprietary vendor blobs for Motorola Moto E4 Plus (nicklaus)
 
 Blobs from NMA26.42-169
 
